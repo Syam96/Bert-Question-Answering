@@ -28,8 +28,5 @@
 
 
 
-*I will update the repo with training code and deployment method followed in future*.
-<<<<<<< Updated upstream
-=======
- 
->>>>>>> Stashed changes
+##### *I will update the repo with training code and deployment method followed in future*.
+
